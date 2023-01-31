@@ -14,7 +14,6 @@ their single cell RNA seq data. The tool takes 10x single cell genomics data as 
 An excellent feature selection method called mRMR (Minimum Redundancy Maximum Relevance) was used to find out top 100 features which act as promising biomarkers
 in classification and prediction of Normal and Diseased patients. Also further classified diseased patients into HPV+ and HPV-.
 
-Please read/cite the content about the AlzScPredict for complete information including algorithm behind the approach.
 ## Installation
 
 Install my-project with pip
