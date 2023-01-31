@@ -66,5 +66,5 @@ Validation.predict(df)
 - Aman Srivastava.
 - Anjali Dhall.
 - Sumeet Patiyal.  
-- [Prof. G.P.S. Raghava](https://www.github.com/octokatherine)
+- [Prof. G.P.S. Raghava](https://webs.iiitd.edu.in/raghava/)
 
