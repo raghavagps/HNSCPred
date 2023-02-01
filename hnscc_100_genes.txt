@@ -1,0 +1,13 @@
+'PLAC9', 'UBB', 'ACKR1', 'AQP7', 'FXYD1', 'BTG1', 'B2M', 'CFD', 'LTBP4',
+       'RPS11', 'MFAP4', 'ISG20', 'SARAF', 'RPL28', 'ABCA8', 'YPEL5', 'GSN',
+       'IL2RG', 'OAZ1', 'DPT', 'RPLP1', 'TNXB', 'CD37', 'ARPC3', 'CYBRD1',
+       'SDPR', 'RELB', 'CYBA', 'TIMP3', 'RPS19', 'CREM', 'NOVA1', 'RPS26',
+       'PDGFRL', 'HLA-C', 'CXCL12', 'TGFBR3', 'RAC2', 'SERP1', 'VIT', 'RHOG',
+       'ADH1B', 'RHOH', 'COPE', 'DCN', 'CNN2', 'REL', 'CD34', 'OST4', 'PRELP',
+       'EPSTI1', 'PTGIS', 'SOD3', 'TNIP1', 'LIMD2', 'RPS15A', 'DUSP4',
+       'SPARCL1', 'SCARA5', 'HLA-B', 'FBLN2', 'IDH2', 'ANGPTL1', 'HLA-A',
+       'FHL1', 'EZR', 'GPSM3', 'F10', 'EEF1A1', 'CYTIP', 'FBLN5', 'CIB1',
+       'CXCR4', 'ATP5E', 'FIGF', 'PLPP3', 'PIM3', 'PSME1', 'CILP', 'CD7',
+       'EBF1', 'NDUFB11', 'ICAM3', 'MGP', 'SLC16A3', 'MEG3', 'VOPP1', 'TXNIP',
+       'RPS15', 'SSPN', 'UBC', 'BMP4', 'TIGIT', 'ADAR', 'LRRN4CL', 'SUB1',
+       'GDF10', 'WIPF1', 'ABI3BP', 'FAM177A1'
