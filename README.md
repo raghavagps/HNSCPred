@@ -14,6 +14,8 @@ their single cell RNA seq data. The tool takes 10x single cell genomics data as 
 An excellent feature selection method called mRMR (Minimum Redundancy Maximum Relevance) was used to find out top 100 features which act as promising biomarkers
 in classification and prediction of Normal and Diseased patients. Also further classified diseased patients into HPV+ and HPV-.
 
+## Reference
+<b>Reference:</b> Jarwal A., Dhall A., Arora A., Patiyal S., Srivastava A. and Raghava GPS (2024) A deep learning method for classification of HNSCC and HPV patients using single-cell transcriptomics.<font color=blue> <a href="https://www.frontiersin.org/articles/10.3389/fmolb.2024.1395721">Frontiers in Molecular Biosciences DOI=10.3389/fmolb.2024.1395721 </a> </font>
 ## Installation
 
 Install my-project with pip
